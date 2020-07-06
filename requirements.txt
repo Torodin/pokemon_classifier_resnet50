@@ -1,5 +1,0 @@
-fastai==1.0.61
-Flask==1.1.2
-flask_cors==3.0.8
-torch==1.5.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
-gunicorn == 20.0.4
